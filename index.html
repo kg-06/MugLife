@@ -8,6 +8,8 @@
     <link rel="shortcut icon" href="logo.webp" type="image/x-icon">
 </head>
 <body>
+    <div id="loader">
+    </div>
     <div id="main">
         <div id="upper">
              <nav>
@@ -439,6 +441,9 @@
             toggleButton3.src = 'view.webp'; 
         }
     }
+    window.onload = function () {
+    document.querySelector('#loader').style.display = 'none';
+};
 
 
 
