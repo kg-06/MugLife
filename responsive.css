@@ -38,7 +38,7 @@ body {
     align-items: center;
     width:100%;
     height:auto;
-    background-image: url(coffeebean.jpg);
+    background-image: url(coffeebean.webp);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -141,7 +141,7 @@ body {
     position: absolute;
     left: -21%;
     top: -21%;
-    background: url(logo.png);
+    background: url(logo.webp);
     background-size: 100%;
     background-position: center center;
     display: flex;
@@ -382,7 +382,7 @@ position: relative;}
   gap: 6vw;
   width:100%;
   height:auto;
-  background-image: url(coffeebean.jpg);
+  background-image: url(coffeebean.webp);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
